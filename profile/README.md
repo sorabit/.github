@@ -2,7 +2,7 @@
 
 **Sorabit Cloud Hosting** adalah solusi cloud hosting di Indonesia yang cepat, stabil, dan scalable untuk berbagai kebutuhan — mulai dari website, aplikasi, hingga infrastruktur bisnis.
 
-Platform ini dirancang untuk memberikan performa tinggi dengan sistem yang sederhana, sehingga cocok untuk developer, startup, maupun bisnis yang ingin berkembang tanpa batas.
+Sistem yang dirancang untuk memberikan performa tinggi dengan sistem yang sederhana, sehingga cocok untuk developer, startup, maupun bisnis yang ingin berkembang tanpa batas.
 
 ---
 
